@@ -79,7 +79,7 @@
 
 ---
 
-<h3>stats (if you even care.. baka)</h3>
+<h3>stats (not like you care.. baka)</h3>
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pushkar-hue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150"/>
   &nbsp;
@@ -112,7 +112,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=5000&pause=2000&color=FF61C7&center=true&vCenter=true&width=435&lines=ok+im+gonna+go+scrape+more+data+now;pls+give+internship+ty">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=5000&pause=2000&color=FF61C7&center=true&vCenter=true&width=435&lines=ok+im+gonna+go+touch+some+grass+now;pls+give+internship+ty">
 </p>
 
 <div align="center">
