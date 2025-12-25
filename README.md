@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=hi+there!;i'm+Pushkar" alt="Typing SVG" />
+  </a>
 
-<!--
-**pushkar-hue/pushkar-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br>
+  <code>me behind the keyboard 👇</code>
+  <br><br>
 
-Here are some ideas to get you started:
+ <img src="https://media1.tenor.com/m/h0mocw4K4ywAAAAC/anime-girl.gif" width="150">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
